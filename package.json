@@ -1,0 +1,23 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "Node Express Examples",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shugeeth/coursera-nodejs-3.git"
+  },
+  "author": "Shugeeth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shugeeth/coursera-nodejs-3/issues"
+  },
+  "homepage": "https://github.com/shugeeth/coursera-nodejs-3#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
